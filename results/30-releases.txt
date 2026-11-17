@@ -1,0 +1,65 @@
+start    | heapUsed   13.98 MB | rss   94.4 MB | remote globals   1 | __VUE_INSTANCE_SETTERS__   2 | pid 38298, gc last-resort
+r0011    | heapUsed   15.28 MB | rss   96.3 MB | remote globals   2 | __VUE_INSTANCE_SETTERS__   3 | 1 request(s) until rendered
+r0012    | heapUsed   16.44 MB | rss   97.6 MB | remote globals   3 | __VUE_INSTANCE_SETTERS__   4 | 1 request(s) until rendered
+r0013    | heapUsed   17.58 MB | rss   98.8 MB | remote globals   4 | __VUE_INSTANCE_SETTERS__   5 | 1 request(s) until rendered
+r0014    | heapUsed   18.72 MB | rss  100.1 MB | remote globals   5 | __VUE_INSTANCE_SETTERS__   6 | 1 request(s) until rendered
+r0015    | heapUsed   19.84 MB | rss  101.9 MB | remote globals   6 | __VUE_INSTANCE_SETTERS__   7 | 1 request(s) until rendered
+r0016    | heapUsed   21.00 MB | rss  103.2 MB | remote globals   7 | __VUE_INSTANCE_SETTERS__   8 | 1 request(s) until rendered
+r0017    | heapUsed   22.12 MB | rss  104.4 MB | remote globals   8 | __VUE_INSTANCE_SETTERS__   9 | 1 request(s) until rendered
+r0018    | heapUsed   23.34 MB | rss  105.7 MB | remote globals   9 | __VUE_INSTANCE_SETTERS__  10 | 1 request(s) until rendered
+r0019    | heapUsed   24.44 MB | rss  107.1 MB | remote globals  10 | __VUE_INSTANCE_SETTERS__  11 | 1 request(s) until rendered
+r0020    | heapUsed   25.62 MB | rss  108.4 MB | remote globals  11 | __VUE_INSTANCE_SETTERS__  12 | 1 request(s) until rendered
+r0021    | heapUsed   26.74 MB | rss  109.6 MB | remote globals  12 | __VUE_INSTANCE_SETTERS__  13 | 1 request(s) until rendered
+r0022    | heapUsed   27.86 MB | rss  110.8 MB | remote globals  13 | __VUE_INSTANCE_SETTERS__  14 | 1 request(s) until rendered
+r0023    | heapUsed   28.97 MB | rss  112.0 MB | remote globals  14 | __VUE_INSTANCE_SETTERS__  15 | 1 request(s) until rendered
+r0024    | heapUsed   30.09 MB | rss  113.1 MB | remote globals  15 | __VUE_INSTANCE_SETTERS__  16 | 1 request(s) until rendered
+r0025    | heapUsed   31.20 MB | rss  114.3 MB | remote globals  16 | __VUE_INSTANCE_SETTERS__  17 | 1 request(s) until rendered
+r0026    | heapUsed   32.31 MB | rss  115.7 MB | remote globals  17 | __VUE_INSTANCE_SETTERS__  18 | 1 request(s) until rendered
+r0027    | heapUsed   33.43 MB | rss  116.8 MB | remote globals  18 | __VUE_INSTANCE_SETTERS__  19 | 1 request(s) until rendered
+r0028    | heapUsed   34.54 MB | rss  118.1 MB | remote globals  19 | __VUE_INSTANCE_SETTERS__  20 | 1 request(s) until rendered
+r0029    | heapUsed   35.68 MB | rss  119.4 MB | remote globals  20 | __VUE_INSTANCE_SETTERS__  21 | 1 request(s) until rendered
+r0030    | heapUsed   36.80 MB | rss  120.6 MB | remote globals  21 | __VUE_INSTANCE_SETTERS__  22 | 1 request(s) until rendered
+r0031    | heapUsed   37.91 MB | rss  121.7 MB | remote globals  22 | __VUE_INSTANCE_SETTERS__  23 | 1 request(s) until rendered
+r0032    | heapUsed   39.04 MB | rss  122.8 MB | remote globals  23 | __VUE_INSTANCE_SETTERS__  24 | 1 request(s) until rendered
+r0033    | heapUsed   40.16 MB | rss  124.0 MB | remote globals  24 | __VUE_INSTANCE_SETTERS__  25 | 1 request(s) until rendered
+r0034    | heapUsed   41.27 MB | rss  125.1 MB | remote globals  25 | __VUE_INSTANCE_SETTERS__  26 | 1 request(s) until rendered
+r0035    | heapUsed   42.39 MB | rss  126.4 MB | remote globals  26 | __VUE_INSTANCE_SETTERS__  27 | 1 request(s) until rendered
+r0036    | heapUsed   43.50 MB | rss  127.8 MB | remote globals  27 | __VUE_INSTANCE_SETTERS__  28 | 1 request(s) until rendered
+r0037    | heapUsed   44.62 MB | rss  128.9 MB | remote globals  28 | __VUE_INSTANCE_SETTERS__  29 | 1 request(s) until rendered
+r0038    | heapUsed   45.74 MB | rss  130.2 MB | remote globals  29 | __VUE_INSTANCE_SETTERS__  30 | 1 request(s) until rendered
+r0039    | heapUsed   46.85 MB | rss  131.4 MB | remote globals  30 | __VUE_INSTANCE_SETTERS__  31 | 1 request(s) until rendered
+r0040    | heapUsed   47.96 MB | rss  132.6 MB | remote globals  31 | __VUE_INSTANCE_SETTERS__  32 | 1 request(s) until rendered
+
+heapUsed growth: 1159 KB per release over 30 releases
+remote globals still on the host globalThis:
+  Symbol(federation-vite-memory/remote@r0010)  renders=1  evaluatedAt=2026-11-17T20:17:34.478Z
+  Symbol(federation-vite-memory/remote@r0011)  renders=1  evaluatedAt=2026-11-17T20:17:35.031Z
+  Symbol(federation-vite-memory/remote@r0012)  renders=1  evaluatedAt=2026-11-17T20:17:35.571Z
+  Symbol(federation-vite-memory/remote@r0013)  renders=1  evaluatedAt=2026-11-17T20:17:36.109Z
+  Symbol(federation-vite-memory/remote@r0014)  renders=1  evaluatedAt=2026-11-17T20:17:36.646Z
+  Symbol(federation-vite-memory/remote@r0015)  renders=1  evaluatedAt=2026-11-17T20:17:37.229Z
+  Symbol(federation-vite-memory/remote@r0016)  renders=1  evaluatedAt=2026-11-17T20:17:37.768Z
+  Symbol(federation-vite-memory/remote@r0017)  renders=1  evaluatedAt=2026-11-17T20:17:38.309Z
+  Symbol(federation-vite-memory/remote@r0018)  renders=1  evaluatedAt=2026-11-17T20:17:38.845Z
+  Symbol(federation-vite-memory/remote@r0019)  renders=1  evaluatedAt=2026-11-17T20:17:40.146Z
+  Symbol(federation-vite-memory/remote@r0020)  renders=1  evaluatedAt=2026-11-17T20:17:41.106Z
+  Symbol(federation-vite-memory/remote@r0021)  renders=1  evaluatedAt=2026-11-17T20:17:41.664Z
+  Symbol(federation-vite-memory/remote@r0022)  renders=1  evaluatedAt=2026-11-17T20:17:42.201Z
+  Symbol(federation-vite-memory/remote@r0023)  renders=1  evaluatedAt=2026-11-17T20:17:42.745Z
+  Symbol(federation-vite-memory/remote@r0024)  renders=1  evaluatedAt=2026-11-17T20:17:43.292Z
+  Symbol(federation-vite-memory/remote@r0025)  renders=1  evaluatedAt=2026-11-17T20:17:43.839Z
+  Symbol(federation-vite-memory/remote@r0026)  renders=1  evaluatedAt=2026-11-17T20:17:44.397Z
+  Symbol(federation-vite-memory/remote@r0027)  renders=1  evaluatedAt=2026-11-17T20:17:44.948Z
+  Symbol(federation-vite-memory/remote@r0028)  renders=1  evaluatedAt=2026-11-17T20:17:45.503Z
+  Symbol(federation-vite-memory/remote@r0029)  renders=1  evaluatedAt=2026-11-17T20:17:46.045Z
+  Symbol(federation-vite-memory/remote@r0030)  renders=1  evaluatedAt=2026-11-17T20:17:46.592Z
+  Symbol(federation-vite-memory/remote@r0031)  renders=1  evaluatedAt=2026-11-17T20:17:47.139Z
+  Symbol(federation-vite-memory/remote@r0032)  renders=1  evaluatedAt=2026-11-17T20:17:47.686Z
+  Symbol(federation-vite-memory/remote@r0033)  renders=1  evaluatedAt=2026-11-17T20:17:48.235Z
+  Symbol(federation-vite-memory/remote@r0034)  renders=1  evaluatedAt=2026-11-17T20:17:48.782Z
+  Symbol(federation-vite-memory/remote@r0035)  renders=1  evaluatedAt=2026-11-17T20:17:49.339Z
+  Symbol(federation-vite-memory/remote@r0036)  renders=1  evaluatedAt=2026-11-17T20:17:49.885Z
+  Symbol(federation-vite-memory/remote@r0037)  renders=1  evaluatedAt=2026-11-17T20:17:50.463Z
+  Symbol(federation-vite-memory/remote@r0038)  renders=1  evaluatedAt=2026-11-17T20:17:51.017Z
+  Symbol(federation-vite-memory/remote@r0039)  renders=1  evaluatedAt=2026-11-17T20:17:51.570Z
+  Symbol(federation-vite-memory/remote@r0040)  renders=1  evaluatedAt=2026-11-17T20:17:52.119Z

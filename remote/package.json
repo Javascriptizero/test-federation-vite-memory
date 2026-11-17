@@ -1,0 +1,19 @@
+{
+  "name": "fvm-remote",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 4380 --strictPort",
+    "release": "node scripts/release.mjs",
+    "serve": "node scripts/serve.mjs",
+    "clean": "rm -rf releases dist"
+  },
+  "dependencies": {
+    "vue": "3.5.45"
+  },
+  "devDependencies": {
+    "@module-federation/vite": "1.24.1",
+    "@vitejs/plugin-vue": "6.0.11",
+    "vite": "8.3.8"
+  }
+}

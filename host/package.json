@@ -1,0 +1,23 @@
+{
+  "name": "fvm-host",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "NODE_OPTIONS=--experimental-vm-modules nuxt dev --port 4390",
+    "build": "nuxt build",
+    "start": "PORT=4390 node --experimental-vm-modules --expose-gc .output/server/index.mjs"
+  },
+  "dependencies": {
+    "@module-federation/nuxt": "0.2.0",
+    "nuxt": "4.5.2",
+    "vue": "3.5.45",
+    "vue-router": "5.5.0"
+  },
+  "resolutions": {
+    "@module-federation/vite": "1.24.1",
+    "@module-federation/runtime": "2.9.3",
+    "@module-federation/runtime-core": "2.9.3",
+    "@module-federation/sdk": "2.9.3",
+    "@module-federation/error-codes": "2.9.3"
+  }
+}
